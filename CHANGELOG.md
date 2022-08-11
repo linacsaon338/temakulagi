@@ -1,4 +1,4 @@
-## 1.0.0 - First Release
+## gas aja
 * Every feature added
 * Every bug fixed
 * atom harmed
